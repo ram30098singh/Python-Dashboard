@@ -1,0 +1,10 @@
+Instruction:
+
+For opening Dashboard
+
+1. Upload this Dashboard.py file in jupyter notebook
+2. Open Anaconda Prompt 
+3. Then, Write 
+               streamlit run Dashboard.py
+  then press Enter
+4. Then, It will open.
